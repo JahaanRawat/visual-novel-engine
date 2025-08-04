@@ -1,0 +1,27 @@
+[
+  {
+    "directory": "/Users/jahaanrawat/Desktop/ren_cpp",
+    "command": "g++ -std=c++17 -Wall -Wextra -O2 -I/opt/homebrew/include -I./include -c src/main.cpp -o obj/main.o",
+    "file": "src/main.cpp"
+  },
+  {
+    "directory": "/Users/jahaanrawat/Desktop/ren_cpp",
+    "command": "g++ -std=c++17 -Wall -Wextra -O2 -I/opt/homebrew/include -I./include -c src/Game.cpp -o obj/Game.o",
+    "file": "src/Game.cpp"
+  },
+  {
+    "directory": "/Users/jahaanrawat/Desktop/ren_cpp",
+    "command": "g++ -std=c++17 -Wall -Wextra -O2 -I/opt/homebrew/include -I./include -c src/Character.cpp -o obj/Character.o",
+    "file": "src/Character.cpp"
+  },
+  {
+    "directory": "/Users/jahaanrawat/Desktop/ren_cpp",
+    "command": "g++ -std=c++17 -Wall -Wextra -O2 -I/opt/homebrew/include -I./include -c src/DialogueSystem.cpp -o obj/DialogueSystem.o",
+    "file": "src/DialogueSystem.cpp"
+  },
+  {
+    "directory": "/Users/jahaanrawat/Desktop/ren_cpp",
+    "command": "g++ -std=c++17 -Wall -Wextra -O2 -I/opt/homebrew/include -I./include -c src/ResourceManager.cpp -o obj/ResourceManager.o",
+    "file": "src/ResourceManager.cpp"
+  }
+]

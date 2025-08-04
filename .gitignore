@@ -1,0 +1,43 @@
+# Build artifacts
+obj/
+*.o
+*.a
+*.so
+*.dylib
+VisualNovelGame
+main
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+cmake-build-*/
+Makefile.cmake
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs and debug files
+*.log
+core.*
+debug/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# User-specific vim files
+.viminfo
+tags
+TAGS
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
